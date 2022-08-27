@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    /*background-color: #B93A91;*/
+    background-color: #B93A91;
+}
+
+
+.contenedor .card{
+    width: 35rem;
+    height: 35rem;
+    align-items: center;
+    margin-top: 5rem;
+    margin: auto;
+    background-color: #3A72B9;
+    border-radius: 2rem;
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;
+    background-color: #3A72B9;
+}
+
+.contenedor .card .text-center{
+    background-color: #3A72B9;
+    font-size: 18px;
+    margin-top: .5rem;
+}
+
+#contactame{
+    background-color: #3A72B9;
+    font-size: 25px;
+}
+
+#contactos{
+    background-color: #3A72B9;
+}
+
+#heyAhuitz{
+    width: 15rem;
+    height: 15rem;
+}
+
+
+
+
+
+
+
+
